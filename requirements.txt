@@ -1,0 +1,7 @@
+# Requirements for `online_store_sales_analysis` notebook
+pandas
+matplotlib
+numpy
+notebook
+ipykernel
+ipython
