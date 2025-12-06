@@ -6,7 +6,7 @@ I analyzed 12 months of sales data from a fictional online store. The dataset wa
 
 ## Monthly Revenue Trend
 
-![Monthly Revenue](charts/monthly_revenue.png "Monthly Revenue Trend")
+![Monthly Revenue](monthly_revenue.png "Monthly Revenue Trend")
 
 **Key Insights:**
 
