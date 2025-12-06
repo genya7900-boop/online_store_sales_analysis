@@ -14,7 +14,7 @@ This chart shows monthly revenue tendencies over 12 months. Revenue is stronger 
 
 ## Monthly Marketing Spend
 
-![Monthly Marketing Spend](charts/monthly_marketing_spend.png "Monthly Marketing Spend")
+![Monthly Marketing Spend](monthly_marketing_spend.png "Monthly Marketing Spend")
 
 **Key Insights:**
 
@@ -22,7 +22,7 @@ This chart displays monthly marketing expenditure trends. The spending patterns 
 
 ## Monthly Visitors
 
-![Monthly Visitors](charts/monthly_visitors.png "Monthly Visitors")
+![Monthly Visitors](monthly_visitors.png "Monthly Visitors")
 
 **Key Insights:**
 
@@ -30,7 +30,7 @@ This chart shows monthly visitor traffic to the online store. Understanding visi
 
 ## Monthly Orders
 
-![Monthly Orders](charts/monthly_orders.png "Monthly Orders")
+![Monthly Orders](monthly_orders.png "Monthly Orders")
 
 **Key Insights:**
 
@@ -42,7 +42,7 @@ The straightforward conclusion would be that if marketing spend were increased, 
 
 ## Monthly Average Cart Value
 
-![Monthly Avg Cart Value](charts/monthly_avg_cart_value.png "Monthly Average Cart Value")
+![Monthly Avg Cart Value](monthly_avg_cart_value.png "Monthly Average Cart Value")
 
 **Analysis:**
 
@@ -50,7 +50,7 @@ I created this chart to see how much people spend per transaction in this online
 
 ## Conversion Rate
 
-![Conversion Rate](charts/conversion_rate_pie_chart.png "Conversion Rate")
+![Conversion Rate](conversion_rate_pie_chart.png "Conversion Rate")
 
 **Analysis:**
 
